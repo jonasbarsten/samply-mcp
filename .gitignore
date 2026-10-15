@@ -1,0 +1,12 @@
+node_modules/
+cdk.out/
+dist/
+.env
+*.log
+.DS_Store
+.superpowers/
+.claude/worktrees/
+
+# Built by api/scripts/build-widget.mjs from src/widget/<name>.template.html
+api/src/assets/choice.html
+api/src/assets/table.html
